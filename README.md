@@ -12,12 +12,19 @@ The purpose of this project was to analyze Amazon reviews written by members of 
 
 A total of 4 tables were generated for analysis:
 1. A "review table" that had information review_id, customer_id, product_id, product_parent and review_date on 9002021 records.
+
 ![](reviews_table.PNG)
+
 2. A "customers table" that had information on customer_id and customer_count on 5197905 records.
+
 ![](customers_table-loaded.PNG)
+
 3. A "products table" that had information on product_id and product_title on 906592 records.
+
 ![](products_table.PNG)
-4. A Vine table that had information on review_id, star_rating, helpful_votes, total_votes, and verified_purchase on 9002021 records
+
+4. A Vine table that had information on review_id, star_rating, helpful_votes, total_votes, and verified_purchase on 9002021 records.
+
 ![](vine_table-loaded.PNG)
 
 
